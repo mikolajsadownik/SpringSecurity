@@ -17,3 +17,12 @@ This project demonstrates how to implement authentication and authorization usin
 - `SecurityConfiguration.java`: Configures Spring Security, specifying user roles and secured endpoints.
 - `home.html`, `admin.html`, `user.html`: HTML templates for the landing page, admin, and user roles.
 - `pom.xml`: Maven project configuration file including dependencies for Spring Boot, Spring Security, and Thymeleaf.
+
+## Home Page
+![image](https://github.com/mikolajsadownik/SpringSecurity/assets/109753404/15430a4d-31c7-4a45-9797-a2523a7e9e8f)
+
+## User Page
+![image](https://github.com/mikolajsadownik/SpringSecurity/assets/109753404/fb648a3d-396c-4b49-b9e4-40c332cd49c7)
+
+## Admin Page
+![image](https://github.com/mikolajsadownik/SpringSecurity/assets/109753404/6d568058-a363-493c-937f-4ee62a56f02f)
